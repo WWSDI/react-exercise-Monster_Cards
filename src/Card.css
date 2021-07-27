@@ -1,0 +1,12 @@
+.Card{
+  background-color: rosybrown;
+  border: 5px solid goldenrod;
+  border-radius: 1rem;
+  width: 15rem;
+  height: 20rem;
+  text-align: center;
+}
+
+img{
+  width:12rem;
+}
